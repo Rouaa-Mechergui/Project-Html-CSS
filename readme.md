@@ -18,3 +18,20 @@
 Visit Website - [Do some coding](https://www.dosomecoding.com)
 
 Visit Channel - [Do some coding](https://www.youtube.com/c/dosomecoding)
+
+ Project 11 - Weather App (UI only)
+💡 Crée l'interface d'une application météo avec :
+
+Une zone de recherche pour saisir une ville
+
+Une section qui affiche la température, une icône météo (ex. ☀️ 🌧️), l’humidité, le vent
+
+Un fond dynamique (ex. ciel ensoleillé ou nuageux)
+
+🔧 Technologies :
+
+HTML (structure)
+
+CSS (design responsive + animations simples)
+
+Pas besoin de JS si tu veux juste le visuel !
